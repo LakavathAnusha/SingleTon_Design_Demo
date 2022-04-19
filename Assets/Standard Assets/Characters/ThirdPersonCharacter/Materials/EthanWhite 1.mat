@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: EthanWhite
+  m_Name: EthanWhite 1
   m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION _LIGHTMAPPING_STATIC_LIGHTMAPS _NORMALMAP _UVPRIM_UV1
     _UVSEC_UV1
@@ -89,11 +89,11 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.098039225, g: 0.098039225, b: 0.098039225, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0.99999994}
     - _EmissionColorUI: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColorWithMapUI: {r: 1, g: 1, b: 1, a: 1}
     - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
-    - _SpecColor: {r: 0.4112276, g: 0.7830189, b: 0.034472458, a: 1}
+    - _SpecColor: {r: 0.8584906, g: 0.20787342, b: 0.20787342, a: 1}
     - _SpecularColor: {r: 0.24264705, g: 0.24264705, b: 0.24264705, a: 1}
   m_BuildTextureStacks: []
