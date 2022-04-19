@@ -24,10 +24,9 @@ public class SpawnManager : MonoBehaviour
             if(Physics.Raycast(ray.origin,ray.direction,out hitInformation))
             {
               GameObject temp =  Instantiate(healthPrefab, hitInformation.point, Quaternion.identity);
-                //GameManager.Instance.AddTransCan(temp);
+              
             }
-        }
-        
+        } 
     }
    
 }
